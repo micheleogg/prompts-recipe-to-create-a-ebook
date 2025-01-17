@@ -41,7 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de investimentos financeiros, o ebook é do nicho de tipos de investimentos e o subnicho é de aplicações financeiras para os diversos perfis de investimento. O título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                       |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em investimentos financeiros, listando os principais tipos de aplicações financeiras com exemplos e explicando qual o tipo de perfil de investidor é adequado para aquela aplicação {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 SeaArt：
